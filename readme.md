@@ -21,10 +21,10 @@ This package is open-source software licensed under the [MIT license](https://op
 - [Hassan Kerdash](https://github.com/kerdash)
 
 ### Contributing
-Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/kerdash/laravel-locales).
+Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/kerdash/laravel-remove-public-url).
 
 ### Support
-For any questions or support, please contact Hassan Kerdash via [GitHub Issues](https://github.com/kerdash/laravel-locales/issues).
+For any questions or support, please contact Hassan Kerdash via [GitHub Issues](https://github.com/kerdash/laravel-remove-public-url/issues).
 
 ### Security Vulnerabilities
 If you discover a security vulnerability within this package, please send an e-mail to Hassan Kerdash via [kerdash@gmail.com](mailto:kerdash@gmail.com). All security vulnerabilities will be promptly addressed.
