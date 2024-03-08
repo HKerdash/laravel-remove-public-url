@@ -13,7 +13,7 @@ class HtaccessPublishCommand extends Command
 
     public function handle(): void
     {
-        $htaccessSource = __DIR__ . '/.htaccess';
+        $htaccessSource = __DIR__ . '/htaccess';
         $htaccessDestination = base_path('.htaccess');
 
         if (File::exists($htaccessDestination)) {
