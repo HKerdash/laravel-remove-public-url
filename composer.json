@@ -1,0 +1,18 @@
+{
+    "name": "hassankerdash/laravel-remove-public-url",
+    "description": "Remove public from url for laravel app.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HassanKerdash\\Laravel\\RemovePublicUrl\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HassanKerdash\\Laravel\\RemovePublicUrl\\Providers\\RemovePublicUrlServiceProvider"
+            ]
+        }
+    }
+}
